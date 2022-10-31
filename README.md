@@ -44,4 +44,4 @@ You have to do this for ./src/App.js
 
 ## License
 
-You are free to do anything with the source code of this project!
+MIT License
