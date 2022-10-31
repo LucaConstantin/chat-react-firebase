@@ -30,7 +30,7 @@ Uses Firebase version 9.
 
 ## Installation
 
-1. Create a Firebase account
+1. Create a Firebase account [here](https://firebase.google.com/)
 2. Put your Firebase Config (which you can get from your account settings) here.
 
 ```
