@@ -31,7 +31,12 @@ Uses Firebase version 9.
 ## Installation
 
 1. Create a Firebase account [here](https://firebase.google.com/)
-2. Put your Firebase Config (which you can get from your account settings) here.
+  - Enable auth (google, facebook)
+  - Enable cloud firestore
+  - Enable firebase storage
+2. Clone the project
+3. Run `npm install`
+4. Put your Firebase Config (which you can get from your account settings) here.
 
 ```
 const firebaseConfig = {
@@ -40,7 +45,6 @@ const firebaseConfig = {
  ```
  
 You have to do this for ./src/App.js
- 
 
 ## License
 
